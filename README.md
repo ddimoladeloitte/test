@@ -2,4 +2,4 @@
 test repo
 
 documentation here
-* (page1)[/docs/page1]
+* [page 1](docs/page1.md)
